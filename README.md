@@ -5,6 +5,7 @@
 - Awarded the Honors Certificate indicating completion of 18 Honors credit hours
 - International Merit Scholarship of $8,000 annually
 - 2x Dean's List Recipient
+- HackMT'2024 Winner
 - Relevant Coursework:
   - Calculus I & II
   - Discrete Structures
